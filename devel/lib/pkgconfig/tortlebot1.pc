@@ -1,0 +1,8 @@
+prefix=/home/francisco/Workshop/tortlebot1_ws/devel
+
+Name: tortlebot1
+Description: Description of tortlebot1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
